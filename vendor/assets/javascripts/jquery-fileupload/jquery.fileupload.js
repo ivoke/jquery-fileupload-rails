@@ -1126,6 +1126,8 @@
         },
 
         _onDrop: function (e) {
+            console.dir(e)
+            console.dir(e.target)
             e.dataTransfer = e.originalEvent && e.originalEvent.dataTransfer;
             var that = this,
                 dataTransfer = e.dataTransfer,
