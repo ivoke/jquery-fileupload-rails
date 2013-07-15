@@ -6,4 +6,7 @@
 //=require jquery-fileupload/jquery.fileupload
 //=require jquery-fileupload/jquery.fileupload-fp
 //=require jquery-fileupload/jquery.fileupload-ui
+//=require jquery-fileupload/jquery.fileupload-audio
+//=require jquery-fileupload/jquery.fileupload-image
+//=require jquery-fileupload/jquery.fileupload-video
 //=require jquery-fileupload/locale
